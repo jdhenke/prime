@@ -4,4 +4,4 @@
 
 ## Spec
 
-See the godoc!
+See the [godoc](https://godoc.org/github.com/jdhenke/prime)!
